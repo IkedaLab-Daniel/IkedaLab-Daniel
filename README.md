@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IkedaLab-Daniel
-- 👀 I’m interested in Computer Science, Mathematics, and Neuropsychology
-- 🌱 I’m currently learning Neuroscience
-- 💞️ I’m looking to collaborate on Wed Designing
+- 👋 Hi, I’m @IceICe
+- 👀 I’m interested in Web Developement, Front-end, Back-end
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on simple Web Projects
 - 📫 How to reach me? Gmail me: callejasmark63@gmail.com
 
 <!---
