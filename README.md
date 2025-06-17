@@ -1,7 +1,7 @@
-👋 Hi, I’m @IkedaLab-Daniel . I document my learning journey on TikTok: @dev.iceice
-💻 Full-Stack Software Engineer | Web Development
-🎨 Have Knowledge on UX Design
-🤖 Learning Artificial Intelligence Integration
+- 👋 Hi, I’m @IkedaLab-Daniel . I document my learning journey on TikTok: @dev.iceice
+- 💻 Full-Stack Software Engineer | Web Development
+- 🎨 Have Knowledge on UX Design
+- 🤖 Learning Artificial Intelligence Integration
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
