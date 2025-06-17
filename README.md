@@ -29,14 +29,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ikedalab-Daniel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Badges
-<a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank" style="text-decoration: none;">
+<a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; width: max-content;">
   <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Front-End Developer Badge" />
-  <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <strong>Meta Front-End Developer</strong><br>
+  <div style="text-align: center; margin-top: 0.5em;">
+    <strong style="color: black;">Meta Front-End Developer</strong><br>
     <span style="font-size: 0.9em; color: gray;">Issued by Meta</span>
   </div>
 </a>
-
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
