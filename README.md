@@ -1,9 +1,7 @@
-`- 👋 Hi, I’m @IkedaLab-Daniel
-- 👋 I document my learning journey on TikTok: @dev.iceice
-- 👀 I’m interested in Full Stack Web Developement
-- 🌱 I’m currently learning Backend Development and UX Design
-- 💞️ I’m looking to collaborate on simple Web Projects
-- 📫 How to reach me? Gmail me: callejasmark63@gmail.com
+👋 Hi, I’m @IkedaLab-Daniel . I document my learning journey on TikTok: @dev.iceice
+💻 Full-Stack Software Engineer | Web Development
+🎨 Have Knowledge on UX Design
+🤖 Learning Artificial Intelligence Integration
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
