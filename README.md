@@ -29,8 +29,8 @@
       </a>
     </td>
     <td>
-      <strong>Meta Front-End Developer</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Issued by Meta</span>
+      <strong>Meta Full-Stack Software Engineer</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
     </td>
     <td>
       <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
