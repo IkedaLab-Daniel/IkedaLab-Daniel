@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @IkedaLab-Daniel
-<!-- [![Badges](https://raw.githubusercontent.com/IkedaLab-Daniel/study-notes-vault/main/random-assets/badges.png)](https://www.credly.com/users/mark-daniel-callejas/) -->
 
 <a href="https://www.credly.com/users/mark-daniel-callejas/" target="_blank">
   <img src="https://raw.githubusercontent.com/IkedaLab-Daniel/study-notes-vault/main/random-assets/badges.png" width="500"/>
 </a>
 
 - 💻 Full-Stack Software Engineer | Web Development
+- 📈 **Study Vlogs:** [TikTok @dev.iceice](https://www.tiktok.com/@dev.iceice)
 - 🎨 Have Knowledge on UX Design
 - 🤖 Learning Artificial Intelligence Integration
 
