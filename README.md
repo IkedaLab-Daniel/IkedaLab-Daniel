@@ -5,7 +5,6 @@
 </a>
 
 - 💻 Full-Stack Software Engineer | Web Development
-- 📈 **Study Vlogs:** [TikTok @dev.iceice](https://www.tiktok.com/@dev.iceice)
 - 🎨 Have Knowledge on UX Design
 - 🤖 Learning Artificial Intelligence Integration
 
