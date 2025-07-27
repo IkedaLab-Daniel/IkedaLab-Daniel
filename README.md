@@ -88,6 +88,20 @@
       </a>
     </td>
     <td>
+      <strong>IBM Full-Stack Developer</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
+        <img src="https://images.credly.com/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="100" alt="Meta Front-End Developer Badge" />
+      </a>
+    </td>
+    <td>
+      <strong>JavaScript Essentials 2</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by Coursera</span>
+    </td>
+    <!--
+    <td>
       <strong>Node and Express Essentials</strong><br>
       <span style="font-size: 0.9em; color: gray;">Authorized by  IBM</span>
     </td>
@@ -100,6 +114,7 @@
       <strong>JavaScript Essentials 2</strong><br>
       <span style="font-size: 0.9em; color: gray;">Issued by  Cisco</span>
     </td>
+    -->
   </tr>
 </table>
 
