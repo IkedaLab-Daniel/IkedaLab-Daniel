@@ -63,6 +63,15 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.credly.com/badges/6fa190cc-8bb3-46a2-b806-bba49a874f51" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="100"ß/>
+      </a>
+    </td>
+    <td>
+      <strong>IBM Full-Stack Developer</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
+    </td>
+    <td>
       <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank">
         <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Front-End Developer Badge" />
       </a>
@@ -71,6 +80,8 @@
       <strong>Meta Full-Stack Software Engineer</strong><br>
       <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Meta Front-End Developer Badge" />
@@ -79,17 +90,6 @@
     <td>
       <strong>Google UX Design Professional Certificate</strong><br>
       <span style="font-size: 0.9em; color: gray;">Issued by Coursera</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" width="100" alt="Meta Front-End Developer Badge" />
-      </a>
-    </td>
-    <td>
-      <strong>IBM Full-Stack Developer</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
     </td>
     <td>
       <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
