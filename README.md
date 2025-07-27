@@ -98,7 +98,7 @@
     </td>
     <td>
       <strong>JavaScript Essentials 2</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Issued by Coursera</span>
+      <span style="font-size: 0.9em; color: gray;">Issued by Cisco</span>
     </td>
     <!--
     <td>
