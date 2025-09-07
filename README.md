@@ -6,9 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ikedalab-Daniel&color=blue)
 
-- 💻 Full-Stack Software Engineer | Web Development
-- 🎨 Have Knowledge on UX Design
-- 🤖 Learning Artificial Intelligence Integration
+<h3 align="center"><i>"A day without coding is as empty as a day without sunshine."</i></h3>
 
 # 💻 Tech Stack  
 
