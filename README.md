@@ -93,10 +93,6 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ikedalab-Daniel&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikedalab-Daniel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ikedalab-Daniel&icon=0&color=0" alt="Profile Views"/>
-  </a>
 </div>
 
 
