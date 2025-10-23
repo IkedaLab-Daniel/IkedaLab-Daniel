@@ -45,6 +45,26 @@
       <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://www.credly.com/badges/3109264d-33b1-49e2-8782-e69caa3eb06f/public_url" target="_blank">
+        <img src="https://images.credly.com/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png" width="100" />
+      </a>
+    </td>
+    <td>
+      <strong>IT Specialist - Cloud Computing</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by Certiport</span>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/edbdf404-d4f6-4781-8217-582d5b91e14b" target="_blank">
+        <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100"/>
+      </a>
+    </td>
+    <td>
+      <strong>AWS Cloud Quest: Cloud Practitioner - Training</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by AWS Training and Certification</span>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
@@ -64,21 +84,6 @@
       <strong>IBM AI Developer</strong><br>
       <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
     </td>
-    <!--
-    <td>
-      <strong>Node and Express Essentials</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Authorized by  IBM</span>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
-        <img src="https://images.credly.com/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="100" alt="Meta Front-End Developer Badge" />
-      </a>
-    </td>
-    <td>
-      <strong>JavaScript Essentials 2</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Issued by  Cisco</span>
-    </td>
-    -->
   </tr>
 </table>
 
