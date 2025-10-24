@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ikedalab-Daniel&color=blue)
 
-<h3 align="center"><i>"A day without coding is as empty as a day without sunshine."</i></h3>
+<h3 align="center"><i>"Spend nights improving..."</i></h3>
 
 ## 🚀 Tech Stack
 
