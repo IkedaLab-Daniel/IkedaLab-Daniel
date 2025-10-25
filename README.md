@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ikedalab-Daniel&color=blue)
 
-<h3 align="center"><i>"Spend nights improving..."</i></h3>
+<h1 align="center"><i>Code -> Fail -> Learn -> Repeat</i></h1>
 
 ## 🚀 Tech Stack
 
