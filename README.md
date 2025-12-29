@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Ikedalab-Daniel&color=blue)
 
 <div align="center">
-  <h1 align="center"><i>Code -> Fail -> Learn -> Repeat</i><img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" height="100" /></h1>
+  <h3 align="center"><i>...because a part of you knows you could’ve pushed harder.</i></h3>
 </div>
 <br/>
 
@@ -102,3 +102,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" height="200" />
