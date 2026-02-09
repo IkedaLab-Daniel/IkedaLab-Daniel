@@ -59,13 +59,13 @@
       <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
     </td>
     <td>
-      <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank">
-        <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Front-End Developer Badge" />
+      <a href="https://www.credly.com/badges/1289170b-0a3f-4a02-8c9f-a3a2c95da86a/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/520b12b6-dac0-4731-a4f6-e41427201422/BadgeEmblem_EnterpriseDesignThinkingPractitioner.png" width="100" alt="Meta Front-End Developer Badge" />
       </a>
     </td>
     <td>
-      <strong>Meta Full-Stack Software Engineer</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
+      <strong>Enterprise Design Thinking Practitioner</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by IBM SkillsBuild</span>
     </td>
   </tr>
     <tr>
