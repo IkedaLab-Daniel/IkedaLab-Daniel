@@ -25,9 +25,29 @@
 | **Best Friend**           | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white) |
 | **System Design**         | ![Monolithic](https://img.shields.io/badge/-Monolithic-757575?style=flat&logo=arch-linux&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-2E7D32?style=flat&logo=google-cloud&logoColor=white) ![Serverless](https://img.shields.io/badge/-Serverless-FF9900?style=flat&logo=serverless&logoColor=white) ![Client-Server](https://img.shields.io/badge/-Client--Server-1976D2?style=flat&logo=MLflow&logoColor=white) |
 
-## ⭐ Badges
+## ⭐ Featured Badges
 
 <table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/c7687933-258b-4811-886c-632dd754fb0a/public_url" target="_blank">
+        <img src="https://images.credly.com/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png" width="100"/>
+      </a>
+    </td>
+    <td>
+      <strong>MongoDB Associate Developer</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by MongoDB</span>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank">
+        <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Front-End Developer Badge" />
+      </a>
+    </td>
+    <td>
+      <strong>Meta Full-Stack Software Engineer</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://www.credly.com/badges/6fa190cc-8bb3-46a2-b806-bba49a874f51" target="_blank">
