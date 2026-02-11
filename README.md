@@ -112,8 +112,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ikedalab-Daniel&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikedalab-Daniel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ikedalab-Daniel&theme=dark&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ikedalab-Daniel&show_icons=true&theme=radical" height="170" />
 </div>
 
 
