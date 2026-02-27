@@ -1,3 +1,10 @@
+<div align="right">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkDanielCallejas-4527/C2E68478EA96D24A?sharingId=853D39055F38DD47" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" width="120" alt="GitHub Foundations Badge"/>
+  </a>
+  <br/>
+</div>
+
 # 👋 Hi, I’m @IkedaLab-Daniel
 
 <a href="https://www.credly.com/users/mark-daniel-callejas/" target="_blank">
