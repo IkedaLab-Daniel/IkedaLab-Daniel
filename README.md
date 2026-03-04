@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @IkedaLab-Daniel ![](https://komarev.com/ghpvc/?username=Ikedalab-Daniel&color=blue)
-
 <div>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkDanielCallejas-4527/C2E68478EA96D24A?sharingId=853D39055F38DD47" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" width="120" align="right" alt="GitHub Foundations Badge"/>
@@ -11,8 +10,14 @@
 </div>
 
 <div align="center">
-  <h3 align="center"><i>...because a part of you knows you could’ve pushed harder.</i></h3>
+  <!-- <h3 align="center"><i>...because a part of you knows you could’ve pushed harder.</i></h3> -->
+  <br />
 </div>
+
+```python
+while(world.sleeping):
+    self.improve()
+```
 <br/>
 
 ## 🚀 Tech Stack
