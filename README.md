@@ -121,7 +121,7 @@ while(world.sleeping):
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ikedalab-Daniel&theme=dark&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Ikedalab-Daniel&theme=dark" height="170" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Ikedalab-Daniel&show_icons=true&theme=radical" height="170" />
 </div>
 
