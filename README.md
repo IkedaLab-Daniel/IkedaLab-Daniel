@@ -138,16 +138,6 @@ while(world.sleeping):
 ![](https://github-profile-trophy.vercel.app/?username=Ikedalab-Daniel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-## 🌐 Social Media
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/markdaniel.callejas.9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:callejasmark63@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode\&logoColor=%23d16c06)](https://leetcode.com/u/dev-iceice/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white\&logoColor=fff)](https://www.linkedin.com/in/mark-daniel-callejas-b18b37230/)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok\&logoColor=white)](https://www.tiktok.com/@dev.iceice)
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" height="200" />
