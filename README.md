@@ -49,48 +49,48 @@ while(world.sleeping):
 <table>
   <tr>
     <td>
-      <a href="https://www.credly.com/badges/c7687933-258b-4811-886c-632dd754fb0a/public_url" target="_blank">
-        <img src="https://images.credly.com/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png" width="100"/>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkDanielCallejas-4527/4DA11B6D2729F521?sharingId=853D39055F38DD47" target="_blank" rel="noopener noreferrer">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="100" alt="Microsoft Certified Associate Badge"/>
+      </a>
+    </td>
+    <td>
+      <strong>Microsoft Certified: Azure AI Apps and Agents Developer Associate</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by Microsoft</span>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/c7687933-258b-4811-886c-632dd754fb0a/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png" width="100" alt="MongoDB Associate Developer Badge"/>
       </a>
     </td>
     <td>
       <strong>MongoDB Associate Developer</strong><br>
       <span style="font-size: 0.9em; color: gray;">Issued by MongoDB</span>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank">
-        <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Front-End Developer Badge" />
+      <a href="https://www.credly.com/badges/e60ad41c-a4e5-42ee-ac30-ef7a1c417115/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="100" alt="Meta Full-Stack Software Engineer Badge"/>
       </a>
     </td>
     <td>
       <strong>Meta Full-Stack Software Engineer</strong><br>
       <span style="font-size: 0.9em; color: gray;">Authorized by Meta</span>
     </td>
-  </tr>
-  <tr>
     <td>
-      <a href="https://www.credly.com/badges/6fa190cc-8bb3-46a2-b806-bba49a874f51" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="100"/>
+      <a href="https://www.credly.com/badges/6fa190cc-8bb3-46a2-b806-bba49a874f51" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="100" alt="IBM Full-Stack Software Developer Badge"/>
       </a>
     </td>
     <td>
       <strong>IBM Full-Stack Developer</strong><br>
       <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
     </td>
-    <td>
-      <a href="https://www.credly.com/badges/1289170b-0a3f-4a02-8c9f-a3a2c95da86a/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/520b12b6-dac0-4731-a4f6-e41427201422/BadgeEmblem_EnterpriseDesignThinkingPractitioner.png" width="100" alt="Meta Front-End Developer Badge" />
-      </a>
-    </td>
-    <td>
-      <strong>Enterprise Design Thinking Practitioner</strong><br>
-      <span style="font-size: 0.9em; color: gray;">Issued by IBM SkillsBuild</span>
-    </td>
   </tr>
-    <tr>
+  <tr>
     <td>
-      <a href="https://www.credly.com/badges/3109264d-33b1-49e2-8782-e69caa3eb06f/public_url" target="_blank">
-        <img src="https://images.credly.com/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png" width="100" />
+      <a href="https://www.credly.com/badges/3109264d-33b1-49e2-8782-e69caa3eb06f/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png" width="100" alt="IT Specialist Cloud Computing Badge"/>
       </a>
     </td>
     <td>
@@ -98,8 +98,8 @@ while(world.sleeping):
       <span style="font-size: 0.9em; color: gray;">Issued by Certiport</span>
     </td>
     <td>
-      <a href="https://www.credly.com/badges/edbdf404-d4f6-4781-8217-582d5b91e14b" target="_blank">
-        <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100"/>
+      <a href="https://www.credly.com/badges/edbdf404-d4f6-4781-8217-582d5b91e14b" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" alt="AWS Cloud Quest Cloud Practitioner Badge"/>
       </a>
     </td>
     <td>
@@ -109,8 +109,8 @@ while(world.sleeping):
   </tr>
   <tr>
     <td>
-      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Meta Front-End Developer Badge" />
+      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Google UX Design Professional Certificate Badge"/>
       </a>
     </td>
     <td>
@@ -118,8 +118,8 @@ while(world.sleeping):
       <span style="font-size: 0.9em; color: gray;">Issued by Coursera</span>
     </td>
     <td>
-      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank">
-        <img src="https://images.credly.com/images/70675aed-31be-4c30-add7-b99905a34005/image.png" width="100" alt="Meta Front-End Developer Badge" />
+      <a href="https://www.credly.com/badges/c4f4a74b-27c1-45eb-8e65-5d047893e75c/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/70675aed-31be-4c30-add7-b99905a34005/image.png" width="100" alt="IBM AI Developer Badge"/>
       </a>
     </td>
     <td>
@@ -127,8 +127,25 @@ while(world.sleeping):
       <span style="font-size: 0.9em; color: gray;">Authorized by IBM</span>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/1289170b-0a3f-4a02-8c9f-a3a2c95da86a/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/520b12b6-dac0-4731-a4f6-e41427201422/BadgeEmblem_EnterpriseDesignThinkingPractitioner.png" width="100" alt="Enterprise Design Thinking Practitioner Badge"/>
+      </a>
+    </td>
+    <td>
+      <strong>Enterprise Design Thinking Practitioner</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by IBM SkillsBuild</span>
+    </td>
+    <td colspan="2" align="center">
+      <a href="https://www.credly.com/users/mark-daniel-valentin-callejas/badges/credly" target="_blank" rel="noopener noreferrer">
+        <strong>See More →</strong>
+      </a>
+      <br>
+      <span style="font-size: 0.9em; color: gray;">Explore all my badges on Credly</span>
+    </td>
+  </tr>
 </table>
-
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ikedalab-Daniel&theme=dark" height="170" />
