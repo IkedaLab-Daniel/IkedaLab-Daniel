@@ -79,7 +79,7 @@ while(world.sleeping):
     </td>
     <td>
       <a href="https://www.credly.com/badges/6fa190cc-8bb3-46a2-b806-bba49a874f51" target="_blank" rel="noopener noreferrer">
-        <img src="https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="100" alt="IBM Full-Stack Software Developer Badge"/>
+        <img src="https://images.credly.com/size/340x340/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100" alt="IBM Full-Stack Software Developer v5 Badge"/>
       </a>
     </td>
     <td>
